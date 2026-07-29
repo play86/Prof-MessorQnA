@@ -39,6 +39,9 @@ Link to explanation: https://www.professormesser.com/free-a-plus-training/220-12
 ### <img width="742" height="770" alt="image" src="https://github.com/user-attachments/assets/d73b6171-d1a5-4af2-917d-b4effdccaed3" />
 Link to explanation: https://www.professormesser.com/free-a-plus-training/220-1201/220-1201-video/virtualization-concepts-220-1201/
 
+## Question 11: 29th July
+### <img width="566" height="599" alt="image" src="https://github.com/user-attachments/assets/f6f3d8b2-2f49-4fe1-9b06-27a9493136db" />
+Link to explanation: https://www.professormesser.com/free-a-plus-training/220-1201/220-1201-video/virtualization-services-220-1201/
 
 
 
