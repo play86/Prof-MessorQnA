@@ -36,14 +36,16 @@ Link to explanation: https://www.professormesser.com/free-a-plus-training/220-12
 Link to explanation: https://www.professormesser.com/free-a-plus-training/220-1201/220-1201-video/inkjet-printer-maintenance-220-1201/
 
 ## Question 10: 27th July 
-### <img width="742" height="770" alt="image" src="https://github.com/user-attachments/assets/d73b6171-d1a5-4af2-917d-b4effdccaed3" />
+### <img width="742" height="540" alt="image" src="https://github.com/user-attachments/assets/d73b6171-d1a5-4af2-917d-b4effdccaed3" />
 Link to explanation: https://www.professormesser.com/free-a-plus-training/220-1201/220-1201-video/virtualization-concepts-220-1201/
 
 ## Question 11: 29th July
-### <img width="566" height="599" alt="image" src="https://github.com/user-attachments/assets/f6f3d8b2-2f49-4fe1-9b06-27a9493136db" />
+### <img width="750" height="540" alt="image" src="https://github.com/user-attachments/assets/f6f3d8b2-2f49-4fe1-9b06-27a9493136db" />
 Link to explanation: https://www.professormesser.com/free-a-plus-training/220-1201/220-1201-video/virtualization-services-220-1201/
 
-
+## Question 12: 31st July
+### <img width="750" height="540" alt="image" src="https://github.com/user-attachments/assets/29367c0d-fa59-4d01-9c46-e7fb92c35832" />
+Link to explanation: https://www.professormesser.com/free-a-plus-training/220-1201/220-1201-video/cloud-models-220-1201/
 
 
 
